@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1557080000 source:c:\users\administrador\documents\facultad\abm empresa 3\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"empleado.h"
+	"input.h"
+
+1557079323 c:\users\administrador\documents\facultad\abm empresa 3\empleado.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<strings.h>
+	<conio.h>
+	<ctype.h>
+
+1557074826 c:\users\administrador\documents\facultad\abm empresa 3\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1557080149 source:c:\users\administrador\documents\facultad\abm empresa 3\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557079718 source:c:\users\administrador\documents\facultad\abm empresa 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"empleado.h"
+	"input.h"
+
