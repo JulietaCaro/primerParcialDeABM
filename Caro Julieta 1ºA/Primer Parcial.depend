@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1557154183 source:c:\users\alumno\desktop\primer parcial\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"empleado.h"
+	"input.h"
+
+1557154183 c:\users\alumno\desktop\primer parcial\empleado.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<strings.h>
+	<conio.h>
+	<ctype.h>
+
+1557147612 c:\users\alumno\desktop\primer parcial\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1557147612 source:c:\users\alumno\desktop\primer parcial\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+
+1557154183 source:c:\users\alumno\desktop\primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"empleado.h"
+	"input.h"
+
